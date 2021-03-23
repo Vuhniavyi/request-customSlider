@@ -1,0 +1,5 @@
+{
+    "prettier.requireConfig": true,
+    "prettier.prettierPath": "/Applications/ZenBit/please-help-please/node_modules/prettier",
+    "typescript.tsdk": "node_modules/typescript/lib"
+}
